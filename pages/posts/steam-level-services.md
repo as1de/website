@@ -1,8 +1,8 @@
 ---
-title: as1de's Steam Level Up Services
+title: Steam Level Up Services
 date: 2021/4/17
 description: Steam Level Up Services F.A.Q.
-tag: steam
+tag: gaming
 author: as1de
 ---
 
